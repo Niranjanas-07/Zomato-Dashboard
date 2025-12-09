@@ -6,17 +6,19 @@ The dashboard provides insights into restaurant data, including ratings, cuisine
 
 ---
 
-## How to View the Dashboard
+## Files Included
 
-1. Download the **PBIX file**: [Zomato_Dashboard.pbix](./Zomato_Dashboard.pbix)
-2. Open the file using **Power BI Desktop**  
-   (Download link: [https://powerbi.microsoft.com/desktop/](https://powerbi.microsoft.com/desktop/))
-3. Explore the interactive dashboard, which includes:
-   - Charts and graphs analyzing Zomato restaurant ratings.
-   - Insights into popular cuisines and restaurant pricing.
-   - Filters and slicers for dynamic exploration of the data.
+1. **zomato.pbix** – Power BI Desktop dashboard file.  
+2. **Zomato_Clean.csv** – Cleaned Zomato dataset used for analysis.
 
 ---
+
+## How to View the Dashboard
+
+1. Download the PBIX file: [zomato.pbix](./zomato.pbix)  
+2. Open it using **Power BI Desktop** (Download: [https://powerbi.microsoft.com/desktop/](https://powerbi.microsoft.com/desktop/))  
+3. Explore the dashboard with interactive charts, slicers, and insights.  
+
 ## Notes
 
 - The PBIX file can be opened directly in Power BI Desktop.  
