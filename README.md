@@ -8,7 +8,7 @@ The dashboard provides insights into restaurant data, including ratings, cuisine
 
 ## Files Included
 
-1. **zomato.pbix** – Power BI Desktop dashboard file.  
+1. **zomato.pbix** – Power BI Desktop dashboard file.   
 2. **Zomato_Clean.csv** – Cleaned Zomato dataset used for analysis.
 
 ---
